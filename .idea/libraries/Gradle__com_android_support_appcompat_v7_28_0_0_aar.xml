@@ -8,6 +8,8 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca4f9c82d3d6725051958b98f6f2992e/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="file://C:/Program Files (x86)/Java/jre1.8.0_211/bin" />
+    </SOURCES>
   </library>
 </component>
